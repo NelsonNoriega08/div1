@@ -1,0 +1,28 @@
+
+body{
+    background-color: blanchedalmond;
+}
+
+div.Titulo{
+    text-align: center;
+    font-size: 23px;
+}
+
+div.Menu{
+    width: 20%; 
+    float: left; 
+    background-color: chocolate; 
+    padding: 10px;
+    height: 100%;
+}
+
+div.Impacto_Cultral{
+    display: flex;
+    flex-direction: row;
+    background-color: beige;
+}
+
+div.Imagen_Biblia > div{
+    background-color: aqua;
+    width: 30px;
+}
